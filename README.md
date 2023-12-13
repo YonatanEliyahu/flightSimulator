@@ -21,24 +21,26 @@ Explore the skies, experience different views, and stay tuned for upcoming enhan
   It controls the position of the camera (eye) and the direction in which it is looking (dir).
   The default configuration places the camera behind and above the F-35 plane.
 
-## Dependencies
+## Project Setup
+
+### Dependencies
 
 The program relies on the following external libraries:
 
 - **OpenGL**: The primary graphics library used for rendering.
 - **GLUT (OpenGL Utility Toolkit)**: A library for handling windows, user input, and events.
 
-## Prerequisites
+### Prerequisites
 
 - Visual Studio 2019 or later: Ensure you have Visual Studio installed on your system.
 - x86 Configuration: Make sure your Visual Studio project is configured for x86 architecture.
 - Git: You need Git installed to clone this repository.
 
-## C++ Version
+### C++ Version
 
 The program is designed to run on C++17 or later versions. Please ensure that your development environment supports C++17 features or later.
 
-## Compilation and Execution
+### Compilation and Execution
 Clone the Repository: Open a terminal and run the following command to clone the repository:
 
 ```
