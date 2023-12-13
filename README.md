@@ -64,6 +64,10 @@ Run the Program: Execute the program by pressing F5 or selecting Debug > Start D
 - **Top View**: Overhead view looking down at the terrain and plane.
 - **Cockpit View**: View from the cockpit of the F-35.
 - **Combined View**: Split-screen combining regular, top, and cockpit views.
+<img width="200" alt="1" src="https://github.com/YonatanEliyahu/flightSimulator/assets/106242827/7f49bdfc-259f-4d65-a3c3-29283d491742" title="Regular View"> 
+<img width="200" alt="1" src="https://github.com/YonatanEliyahu/flightSimulator/assets/106242827/14977763-1b33-49e3-bd89-401ba1acfac1" title="Top View"> <br>
+<img width="200" alt="1" src="https://github.com/YonatanEliyahu/flightSimulator/assets/106242827/2c4b5553-0ee1-47c4-872d-42f6ef5bc1ec" title="Cockpit View"> 
+<img width="200" alt="1" src="https://github.com/YonatanEliyahu/flightSimulator/assets/106242827/3a3b74cb-13e1-431c-972f-c2d6450964e6" title="Combined View">
 
 ## Terrain Generation
 
